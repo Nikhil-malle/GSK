@@ -1,0 +1,5 @@
+[MASTER]
+load-plugins=pylint_pytest
+
+[MESSAGES CONTROL]
+disable=C0103,W0107,E0013,W0611,C0114,C0305
